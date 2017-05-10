@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: libs/cache-api-1.0.0.jar libs/lucene-core-3.5.0.jar libs/i
+ gnite-shmem-1.0.0.jar libs/ignite-core-1.7.0.jar libs/commons-codec-1
+ .6.jar libs/aopalliance-1.0.jar libs/spring-expression-4.1.0.RELEASE.
+ jar libs/spring-jdbc-4.1.0.RELEASE.jar libs/ignite-spring-1.7.0.jar l
+ ibs/spring-core-4.1.0.RELEASE.jar libs/commons-logging-1.1.1.jar libs
+ /spring-tx-4.1.0.RELEASE.jar libs/annotations-13.0.jar libs/spring-ao
+ p-4.1.0.RELEASE.jar libs/ignite-indexing-1.7.0.jar libs/h2-1.4.191.ja
+ r libs/spring-context-4.1.0.RELEASE.jar libs/spring-beans-4.1.0.RELEA
+ SE.jar
+Main-Class: IgniteTest
+
